@@ -1,0 +1,6 @@
+plotly
+network
+numpy
+pandas
+gunicorn
+
