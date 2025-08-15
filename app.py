@@ -1,6 +1,7 @@
 import plotly.graph_objects as go
 import networkx as nx
 import numpy as np
+import gunicorn
 
 
 # Create a graph
@@ -125,4 +126,5 @@ fig.update_layout(
 )
 
 # Show the figure
+
 fig.show()
