@@ -1,6 +1,7 @@
 plotly
-network
+networkx
 numpy
 pandas
 gunicorn
+
 
